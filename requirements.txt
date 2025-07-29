@@ -1,0 +1,15 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+# Feature Engineering & Data Handling
+category_encoders
+imbalanced-learn
+# Machine Learning Models
+xgboost
+lightgbm
+joblib  # For saving models
+tqdm  # Progress bars
+jupyter
+ipykernel
